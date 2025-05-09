@@ -22,7 +22,7 @@ public class Cat implements Soundable {
 	}
 	
 	public String sound() {
-		return this.sound;
+		return sound;
 	}
 
 }

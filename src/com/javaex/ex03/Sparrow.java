@@ -22,7 +22,7 @@ public class Sparrow implements Soundable {
 	}
 	
 	public String sound() {
-		
+		return sound;
 	}
 	
 
